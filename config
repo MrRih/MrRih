@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/jokokendi/Music-Ken
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "MusicKen"]
+	remote = origin
+	merge = refs/heads/MusicKen

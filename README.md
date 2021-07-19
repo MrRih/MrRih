@@ -50,5 +50,5 @@ TENTANGKU | KETERANGAN
        </marquee></font><center>
      </center><font size="1" color="lightblue"> 
       <marquee scrollamount="30" behavior="alternate" width="100%"> 
-       <font size="7"><font color="white">___________________________________________</font>
+       <font size="7"><font color="white">____________________________________</font>
        </marquee></b></font> 

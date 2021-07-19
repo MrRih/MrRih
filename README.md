@@ -52,7 +52,7 @@ TENTANGKU | KETERANGAN
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](t.me/tehmanisangett)
 
 ### Thanks To :
-<b> 
+<b>
      <center> 
       <font size="1" color="lightblue"> 
        <marquee width="100%"> 

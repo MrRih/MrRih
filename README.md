@@ -31,7 +31,8 @@ TENTANGKU | KETERANGAN
 <p align="center">
     <img
         width="96%"
-        src="https://github-profile-trophy.vercel.app/?username=mrrih&theme=darkhub"/>
+        src="https://github-profile-trophy.vercel.app/?username=mrrih&theme=darkhub"/></p>
+
 ### GRAFIK CONTRIBUSI
 <p align="center">
     <img

@@ -1,7 +1,6 @@
 # Halo Pengunjung Profilku 👋 , I'm MrRih || Clawn
 </p> 
 
-        </font> 
 <p align="center"><img src="https://tenor.com/view/anime-welcome-youre-welcome-gif-13984218.gif" style="width:500%"></p>
 
 ### Tools:

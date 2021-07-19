@@ -24,7 +24,7 @@ TENTANGKU | KETERANGAN
 👥 STATUS | UDAH ADA PAWANG NYA🤣
 
 
-<p align="center"> ━━━━━━━━━━༻❁༺━━━━━━━━━━ </p>
+<p align="center"> ━━━━━━━━━༻❁༺━━━━━━━━━ </p>
 
 
 ## 🏆 GitHub Awards 🏆
@@ -50,7 +50,7 @@ TENTANGKU | KETERANGAN
        </marquee></font><center>
      </center><font size="1" color="lightblue"> 
       <marquee scrollamount="30" behavior="alternate" width="100%"> 
-       <font size="7"><font color="white"><p align="center">━━━━━━━━━━༻❁༺━━━━━━━━━━</font>
+       <font size="7"><font color="white"><p align="center">━━━━━━━━━༻❁༺━━━━━━━━━</font>
        </marquee></b></font></p>
 
 <p align="center"><img src="https://tenor.com/view/happy-anime-cute-girl-gif-14066818.gif" style="width:500%"></p>

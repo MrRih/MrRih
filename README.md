@@ -42,9 +42,6 @@ TENTANGKU | KETERANGAN
 ### Stats:
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRih&theme=blue-green)          
 
-
-<p align="center"><img src="https://tenor.com/view/happy-anime-cute-girl-gif-14066818.gif" style="width:500%"></p>
-
 ### Contact Me :
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MrRih)
@@ -63,3 +60,5 @@ TENTANGKU | KETERANGAN
       <marquee scrollamount="30" behavior="alternate" width="100%"> 
        <font size="7"><font color="white"><p align="center">━━━━━━━━━༻❁༺━━━━━━━━━</font>
        </marquee></b></font></p>
+
+<p align="center"><img src="https://tenor.com/view/happy-anime-cute-girl-gif-14066818.gif" style="width:500%"></p>

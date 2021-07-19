@@ -46,9 +46,12 @@ TENTANGKU | KETERANGAN
      <center> 
       <font size="1" color="lightblue"> 
        <marquee width="100%"> 
-        <b> <br> <font face="iceberg" size="7px" color="red">Thanks To : <font size="7px" color="white" face="Iceberg"> MrClawn ~ Mr.R.I.H ~ Virtual✨ Exploit ~ IndoSecCyber ~ WhiteHatCyber ~</font><br> 
+        <b><p align="center"> <br> <font face="iceberg" size="7px" color="red">Thanks To : <font size="7px" color="white" face="Iceberg"><br></p><p align="center"> ~MrClawn ~ Mr.R.I.H ~ SAMALETE✨Exploit ~ IndoSecCyber ~ ★All User Github★ ~</font><br></p>
        </marquee></font><center>
      </center><font size="1" color="lightblue"> 
       <marquee scrollamount="30" behavior="alternate" width="100%"> 
-       <font size="7"><font color="white">____________________________________</font>
-       </marquee></b></font> 
+       <font size="7"><font color="white"><p align="center">━━━━━━━━━━༻❁༺━━━━━━━━━━</font>
+       </marquee></b></font></p>
+
+<p align="center"><img src="https://tenor.com/view/happy-anime-cute-girl-gif-14066818.gif" style="width:500%"></p>
+

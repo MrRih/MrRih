@@ -9,11 +9,12 @@
 <p align="center">┗━━━━━━༻❁༺━━━━━━┛</p>
 
 TENTANGKU | KETERANGAN
-:---- | :----
+:----- | :-----
 🤡 NAMA | Panggil Aja Zamm
 💬 ALAMAT | BANDUNG-PARIS VAN JAVA
 📣 INFO | CUMAN BISA ASSASSINS SAMA MAGE.
 👥 STATUS | UDAH ADA PAWANG NYA🤣
+FUNFACT😜| SUKA ANAK KECIL DAN KUCING 
 
 
 <p align="center"> ━━━━━━━━━༻❁༺━━━━━━━━━ </p>
